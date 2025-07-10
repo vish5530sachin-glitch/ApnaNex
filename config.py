@@ -15,14 +15,14 @@ BOT_TEXT = "Downloader 10"
 OWNER_ID = int(os.environ.get("OWNER_ID", "1671836568"))
 # ------------------------------------------------
 # //LOG CHANNEL ID 
-CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-4979126663"))
+CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002710100597"))
 
 # //FORCE_CHANNEL_ID
-CHANNEL_ID2 = int(os.environ.get("CHANNEL_ID2", "-4979126663")) 
+CHANNEL_ID2 = int(os.environ.get("CHANNEL_ID2", "-1002710100597")) 
 # ------------------------------------------------
 MONGO_URL = os.environ.get("MONGO_URL", "mongodb+srv://besib69802:YMOfgvnyjbRgW5qt@cluster0.yzzu2gn.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 # -----------------------------------------------
-PREMIUM_LOGS = int(os.environ.get("PREMIUM_LOGS", "-4979126663"))
+PREMIUM_LOGS = int(os.environ.get("PREMIUM_LOGS", "-1002710100597"))
 # -----------------------------------------------
 join = '<a href="https://t.me/+MgPgCAPUOVU2Yjhl">✳️ JOIN BACKUP</a>'
 # -----------------------------------------------
