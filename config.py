@@ -7,10 +7,10 @@ API_ID = int(os.environ.get("API_ID", "28203832"))
 # ------------------------------------------------
 API_HASH = os.environ.get("API_HASH","42e3f299f4af4e2d9434044bcda23a02")
 # ------------------------------------------------
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "8222926834:AAEU5bEpETQ4Tsk_yEpwNcJWn7nLdGH4U2o")
 # ------------------------------------------------
-BOT_USERNAME = os.environ.get("BOT_USERNAME", "@blexedsachin_bot")
-BOT_TEXT = "GAJJU BHAI KA EXTRACTOR"
+BOT_USERNAME = os.environ.get("BOT_USERNAME", "@BLEXEDSACHIN_BOT")
+BOT_TEXT = "Sachinwalabot"
 # ------------------------------------------------
 OWNER_ID = int(os.environ.get("OWNER_ID", "8222926834"))
 # ------------------------------------------------
